@@ -1,2 +1,2 @@
 # Math-Algorithms-Cpp
-Generic Math Algorithms for C++
+All generic math algorithms in C++ Standard Library
