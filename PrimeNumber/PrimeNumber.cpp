@@ -1,3 +1,9 @@
+#ifndef __MAIN_UID__
+ #define __MAIN_UID__ 7483902169507321
+#else
+ #pragma once
+#endif
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -24,7 +30,7 @@ bool isPrime(int input) {
 	return true;
 }
 
-
+#if __MAIN_UID__ == 7483902169507321
 int main() {
 	while ( true ) {
 		int number;
@@ -34,3 +40,4 @@ int main() {
 		cout << number << (isPrime(number) ? (" IS") : (" IS NOT")) << " a Prime Number." << endl;
 	}
 }
+#endif

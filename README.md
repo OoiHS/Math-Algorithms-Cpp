@@ -1,4 +1,4 @@
-# Math-Algorithms-Cpp
+# Math Algorithms C++
 All generic math algorithms in C++11 Standard Library
 
 > ## Prime Number
