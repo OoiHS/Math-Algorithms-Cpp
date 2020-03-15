@@ -4,7 +4,7 @@ All generic math algorithms in C++11 Standard Library
 > ## Prime Factor
 >> Requirement:  
 >> C++11 Standard Library  
->> [ ||||| ](#prime-number)[Prime Number](/PrimeNumber/PrimeNumber.cpp)
+>> [|||||](#prime-number) [Prime Number](/PrimeNumber/PrimeNumber.cpp)
 >
 >> Determine the Prime Factor of a given Number.
 >
